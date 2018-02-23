@@ -1,0 +1,60 @@
+p {
+	font-weight:lighter;
+}
+
+h2 {
+    font-size: 2em;
+    color: #000000;
+    font-weight: 300;
+    margin-top: 1%;
+}
+
+h3 {
+    font-size: 1.2em;
+    color: #c72828;
+    font-weight: bold;
+}
+
+.box {
+    border-color: indianred;
+}
+
+
+.bg-light-blue, .label-primary, .modal-primary .modal-body {
+    background-color: black!important;
+}
+
+.bg-black > .box-header > h3.box-title {
+    color: white;
+}
+
+
+.irs-bar {
+    border-top: 1px solid #c72928;
+    border-bottom: 1px solid #c72928;
+    background: #c72928;
+}
+
+span.irs.js-irs-0.irs-with-grid {
+    margin: 2%;
+}
+
+.irs-bar-edge {
+    border: 1px solid #c72928;
+    background: #c72928;
+}
+
+.irs-min, .irs-max {
+	color:white;
+}
+
+.irs-from, .irs-to, .irs-single {
+	background: #c72928;
+}
+
+.info-box-content > p {
+    font-size: 0.8em;
+}
+
+
+
